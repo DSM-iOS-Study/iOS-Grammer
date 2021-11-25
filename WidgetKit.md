@@ -18,17 +18,17 @@
 
 ![img](https://blog.kakaocdn.net/dn/4CQqR/btqF4TzEMeV/UNBXi3QUjv1D3Fw4hB2cf1/img.png)
 
-이딴 무셔운게 나옵니다. 
+이딴 무서운게 나옵니다. 
 
-뭔가 무서운 스위뿌뜨 유아이 코드가 막 나옵니다. 
+뭔가 무서운 스위프뜨 유아이 코드가 막 나옵니다. 
 
-탄탄히 알아보면요..
+천천히 알아보면요..
 
 .![img](https://blog.kakaocdn.net/dn/rTqHB/btqF2SPtHFI/Do440iDE5LAE31Xq2mREyk/img.png)![img](https://blog.kakaocdn.net/dn/bHWuXq/btqF3TNGcSE/qLMN7X0gIneA7OM5zVbaX1/img.png)
 
 ![img](https://blog.kakaocdn.net/dn/D2W8b/btqF2SBYq6H/O3VwA8GXMXY8ioWxklVov0/img.png)
 
-이렇게 세게의 주요코드가 있습니다. 
+이렇게 세게의 주요 코드가 있습니다. 
 
 **1. Configuration. 위젯을 식별하며, 위젯의 Content를 표시하면 SwiftUI View를 정의.**
 
